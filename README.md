@@ -27,7 +27,7 @@ Raspberry Piを用いた、温湿度センサ（DHT11）・人感センサ（PIR
 
 ## 回路図
 
-![回路図](images/circuit_diagram.png)
+![回路図](image/circuit_diagram.png)
 
 ## セットアップ手順
 
